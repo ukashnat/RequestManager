@@ -8,7 +8,6 @@ package com.requestmanager.model;
 import com.requestmanager.model.EnumStatus.Status;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.UUID;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlID;
